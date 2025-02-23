@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample file for Day20.java.
+Let's learn about file handling in Java!
