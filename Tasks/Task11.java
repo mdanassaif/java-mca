@@ -1,7 +1,5 @@
 public class Task11{
 
-
-
 	void HelloWorld(){
 		System.out.println("HelloWorld Method without parameter");
 	}
@@ -13,9 +11,6 @@ public class Task11{
 	void HelloWorld(int num, String text){
 		System.out.println("HelloWorld Method with 2 parameter: "+num + ","+text);
 	}
-
-
-	
 
 	public static void main(String args[]){
 

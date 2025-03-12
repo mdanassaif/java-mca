@@ -22,9 +22,6 @@ class OfflineClass extends Education{
 }
 
 
-
-
-
 class Task13_3rd{
 	public static void main(String args[]){
 
