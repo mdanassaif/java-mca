@@ -1,11 +1,1 @@
-# Ignore compiled class files
 *.class
-
-# Ignore build directories
-build/
-bin/
-out/
-
-# Ignore IDE-specific files
-.idea/
-*.iml
