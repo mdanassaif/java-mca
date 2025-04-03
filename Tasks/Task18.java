@@ -3,8 +3,7 @@
 class ThreadImp extends Thread{ 
     @Override 
     public void run(){ 
-        String str = "Thread class implementation Thread" 
-                    + " is running Successfully"; 
+        String str = "Thread class implementation Thread is running Successfully"; 
         System.out.println(str); 
     } 
 } 
@@ -12,8 +11,7 @@ class ThreadImp extends Thread{
 class RunnableImp implements Runnable{ 
     @Override 
     public void run(){ 
-        String str = "Runnable Interface implementation Thread" 
-                    + " is running Successfully"; 
+        String str = "Runnable Interface implementation Thread is running Successfully"; 
         System.out.println(str); 
     } 
 } 

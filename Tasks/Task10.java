@@ -24,7 +24,7 @@ class Task10{
 	Task10(String name, int age){
 		this.name = name;
 		this.age = age;
-		System.out.println("Single Parameter constructor : Name = "+name + ", Age = " + age );
+		System.out.println("Double Parameter constructor : Name = "+name + ", Age = " + age );
 	}
 
 	public static void main(String args[]){

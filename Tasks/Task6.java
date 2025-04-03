@@ -19,7 +19,6 @@ class Box<T>{
 public class test{
     public static void main(String args[]){
        
-
        Box<String> stringBox = new Box<>();
        stringBox.setItem("hehe");
        System.out.println("The item is "+ stringBox.getItem());

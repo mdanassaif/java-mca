@@ -2,34 +2,41 @@ Lab Task as on: (18-02-2025)
 -----------------------------
 
 
-1.Write a java program to print the welcome message. 
-2.Write a java program to perform arithmetical operations using static & Scanner class and Command Line Argument as input data.
+1.Write a java program to print the welcome message. ✅
+2.Write a java program to perform arithmetical operations using static & Scanner class and Command Line Argument as input data.✅
 
-3. Write a java program to find the greatest among the 3 numbers using command line arguments.
+3. Write a java program to find the greatest among the 3 numbers using command line arguments.✅
 
-4. Write a java program to find the ODD or EVEN number.
+4. Write a java program to find the ODD or EVEN number.✅
 
-5. Develop a java application for Banking transaction: Balance_Check, Deposit_Amount, Withdraw_Amount & Exit.
+5. Develop a java application for Banking transaction: Balance_Check, Deposit_Amount, Withdraw_Amount & Exit.✅
 
-6. Generic Program for one type parameter and two type parameter.
+6. Generic Program for one type parameter and two type parameter. ✅
 
-7. Sorting of Numbers and Names.
+7. Sorting of Numbers and Names. ✅
 
-8. Command Line Argument Program.
+8. Command Line Argument Program. ✅
 
-9. Big Integer & Big Decimal Program.
+9. Big Integer & Big Decimal Program. ✅
 
-10. Constructor Overloading Program.
+10. Constructor Overloading Program. ✅
 
-11. Method Overloading Program.
+11. Method Overloading Program. ✅
 
-12. Method Overriding Program.
+12. Method Overriding Program. ✅
 
-13. Inheritance Implementation (Single, Multiple, Multilevel, Hierarchical).
+13. Inheritance Implementation (Single, Multiple, Multilevel, Hierarchical). ✅
 
-14. Abstract Class Implementation.
+14. Abstract Class Implementation. ✅
 
-15. Interface Implementation.
+15. Interface Implementation. ✅
 
+
+16. Nested Classes (local, static, non-static, Anonymous) 
+
+
+17. Package Implementation program-user define package ✅
+
+18. Threads 
 
 
