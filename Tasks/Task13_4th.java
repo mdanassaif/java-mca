@@ -49,3 +49,21 @@ class Task13_4th{
 		myArt.art();
 	}
 }
+
+
+interface Shape{
+	void draw();
+}
+
+
+interface Map{
+	void art();
+}
+
+class Artist implements Shape, Map{
+	public static void main(String[] args){
+		
+	}
+}
+
+

@@ -34,3 +34,22 @@ public class test{
 // Box<T> → T is a placeholder for any type.
 // When you use Box<String>, T becomes String.
 // When you use Box<Integer>, T becomes Integer.
+
+
+class Box<T>{
+    private T item;
+
+    public void setItem(T item){
+        this.item = item;
+    }
+
+    public T getItem(){
+        return item;
+    }
+}
+
+public class test{
+    public static void main(string[] args){
+        Box<String> strig = new Box<>();
+    }
+}

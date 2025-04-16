@@ -30,3 +30,4 @@ public class Task14{
 		newPerson.findRoom();
 	}
 }
+
